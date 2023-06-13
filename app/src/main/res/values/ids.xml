@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_source" type="id" />
+    <item name="text_detail_author" type="id" />
+    <item name="text_detail_deatil" type="id" />
+</resources>
